@@ -2,7 +2,8 @@ Battery_Combining_In_Sillico
 ========================================================
 
 Battery_Combining_In_Sillico is a repository with all necessary
-informations and ressources for XXXXXXX under Matlab.
+informations and ressources for generating and analysing the electrodes mesostructures through our data-driven stochastic
+ electrode generator algorithm by using Matlab as programming language.
 
 Please, do not hesitate to discover the team of researchers behind the librairy and also the ARTISTIC project
  involved : [ARTISTIC](https://www.u-picardie.fr/erc-artistic/?L=0)
@@ -18,6 +19,8 @@ Code
 ========================================================
 Format files _.m_ and _.dat_ need to be loacated into the same working
 directory.
+
+**Script_Main.m** consists on the principal code to be launched on Matlab.
 
 
 Example
