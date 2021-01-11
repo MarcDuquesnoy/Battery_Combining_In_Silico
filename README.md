@@ -44,7 +44,13 @@ Pull requests are not allowed. For more informations about the code, please
  License
 ========================================================
 
-This project is licensed under the [MIT Licence](https://opensource.org/licenses/MIT)
+This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
+
+DOI
+========================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901459.svg)](https://doi.org/10.5281/zenodo.3901459)
+
+
 
 Contributors
 ========================================================
@@ -52,3 +58,4 @@ Contributors
 - **Teo Lombardo** , PhD 
 - **Mehdi Chouchane** , PhD
 - **Emiliano Primo** , Post-Doc
+- **Alejandro A. Franco** , Principal Investigator
