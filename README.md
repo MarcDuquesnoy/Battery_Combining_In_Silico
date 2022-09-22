@@ -48,7 +48,7 @@ This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org
 
 DOI
 ========================================================
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901459.svg)](https://doi.org/10.5281/zenodo.3901459)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7103880.svg)](https://doi.org/10.5281/zenodo.7103880)
 
 
 
